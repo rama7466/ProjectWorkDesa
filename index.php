@@ -40,6 +40,9 @@
 	        <li class="nav-item">
 	          <a class="nav-link" href="index.php?page=struktur-organisasi">Struktur Organisasi</a>
 	        </li>
+			<li class="nav-item">
+	          <a class="nav-link" href="admin/login.php">LOGIN</a>
+	        </li>
 	      </ul>
 	    </div>
 	  </div>
